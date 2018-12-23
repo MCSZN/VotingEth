@@ -1,6 +1,6 @@
 // credits to Stephen Grider which Udemy's course @StephenGrider/EthereumCasts
 // inspired us to create this contract
-// @MarcCSZN
+// @MCSZN @marceauguiot
 pragma solidity ^0.4.17;
 
 contract VotingFactory {
